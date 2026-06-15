@@ -11,7 +11,6 @@ while ch<5:
     print("4.Divide")
     print("5.Exit")
 
-    #input choice
     ch = int(input("Enter Choice(1-5):"))
 
     if ch == 1:
